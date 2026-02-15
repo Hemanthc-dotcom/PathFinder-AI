@@ -1,0 +1,30 @@
+Alex Chen
+Email: alex.chen@example.com | Phone: +91-9876543210 | Location: Bengaluru
+LinkedIn: linkedin.com/in/alexchen | GitHub: github.com/alexchen-dev
+
+PROFESSIONAL SUMMARY
+Software engineer with 5 years of experience building full-stack applications and AI-assisted features.
+Strong background in Python, React, FastAPI, SQL, Docker, and AWS.
+Interested in transitioning into AI Engineer and MLOps roles.
+
+SKILLS
+Python, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, SQL, PostgreSQL,
+MongoDB, Docker, Kubernetes, AWS, Machine Learning, Generative AI, Data Analysis,
+Git, CI/CD, Testing, Communication
+
+EXPERIENCE
+Senior Software Engineer | NovaTech Labs | Jan 2022 - Present
+- Built scalable APIs using FastAPI and PostgreSQL for analytics and recommendation workloads.
+- Developed React/Next.js dashboards to visualize skill demand trends and user insights.
+- Containerized services with Docker and deployed to AWS.
+- Led CI/CD improvements that reduced release time by 35%.
+
+Software Engineer | ByteBridge Systems | Jul 2019 - Dec 2021
+- Built internal tools with Python and SQL for data operations.
+- Collaborated across teams to deliver reliable backend services and integrations.
+
+EDUCATION
+Bachelor of Technology (B.Tech) in Computer Science, 2019
+
+INTERESTS
+AI Engineering, Cloud Engineering, Product Engineering, Data Engineering
