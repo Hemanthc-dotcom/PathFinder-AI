@@ -1,7 +1,10 @@
 # Intelligent Career Counsellor
 
-Local full-stack scaffold for a career guidance platform with:
+The **Intelligent Career Counsellor** is an AI-driven platform designed to provide tailored, personalized career guidance.
 
+By analyzing user inputs, the system identifies current abilities, pinpoints missing skills, and constructs personalized roadmaps to help users reach their career goals. It also includes an interactive career assistant chatbot.
+
+Features include:
 - `frontend`: Next.js 14 + Tailwind dashboard, analysis, upload, and chat UI
 - `backend`: FastAPI APIs for resume parsing, skill analysis, roadmap generation, and chat
 
