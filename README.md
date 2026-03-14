@@ -17,11 +17,21 @@ The tech stack comprises:
 
 ## Structure
 
+The repository is structured as a monorepo containing both the frontend and backend applications:
+
 ```text
 .
-├─ docs/
-├─ frontend/
-└─ backend/
+├─ docs/                 # Documentation and architecture assets
+├─ frontend/             # Next.js 14 frontend application
+│  ├─ app/               # App router pages (dashboard, etc.)
+│  ├─ components/        # Reusable UI components (charts, uploaders, cards)
+│  └─ lib/               # Utility functions and API clients
+└─ backend/              # FastAPI backend application
+   ├─ app/
+   │  ├─ api/            # API routing and endpoints
+   │  ├─ services/       # Core business logic (analysis, chat, dashboard, parsing)
+   │  └─ schemas.py      # Pydantic models for request/response validation
+   └─ tests/             # Backend test suite
 ```
 
 ## Run Backend
